@@ -26,7 +26,9 @@ API之前也是簡單地請AI刻完就上。
 至於這次重構，我試著做更充份的準備，希望接下來會有更好的結果，
 如果這些使用過程，能讓大家覺得，AI也不是那麼難相處，就太好了。
 
-repo相關連結
+
+
+## repo相關連結
 
 Alz_face_analyze
 https://github.com/a7266165/Alz_face_analyze
@@ -37,3 +39,33 @@ Alz_face_analyze_legacy
 https://github.com/a7266165/Alz_face_analyze_legacy
 Alz_face_api_legacy
 https://github.com/a7266165/Alz_face_api_legacy
+
+## 補充說明(prompt engineer)
+
+### project detail
+
+此專案主題為阿茲海默症
+
+附檔中主要包含兩個部份
+1. 分析人臉不對稱性與阿茲海默症的程式碼
+2. 提供完整分析流程的API接口
+
+目前我正在將分析流程植入API接口，
+卻在植入過程中發現兩邊的輸出無法對齊。
+
+具體來說，經過相同預處理的相片
+在輸入VGGface後卻得到不同的特徵向量。
+
+而我在進行細部檢查時發現程式碼可讀性不高，
+因此打算對兩邊程式碼同時進行完整重構，
+並將過程記錄下來供他人參考。
+
+### instruction
+
+在專案中，主要麻煩你協助我撰寫程式碼。
+
+撰寫時，以極簡風格為基調。
+
+另一方面，如果你認為加了某些設計不會使程式碼臃腫，
+卻能大幅提升可擴展性，
+則很歡迎你主動提出來與我討論。
