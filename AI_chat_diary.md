@@ -39,24 +39,24 @@ claude - Sonnet 4.5
 (gitignore)  
 
 claude - Opus 4.1  
-(1) 
+(1) https://claude.ai/share/5bc06b5c-6cec-4339-aff8-50549cc321a7  
 (format)  
 
 ---------------------------------------
 
 ## AI聊天記錄 - 模板
 
-2025-XX-XX ~ 2025-XX-XX
-GPT 5  - Thinking
-claude - Opus 4.1
-claude - Sonnet 4.5
+2025-XX-XX ~ 2025-XX-XX  
+GPT 5  - Thinking  
+claude - Opus 4.1  
+claude - Sonnet 4.5  
 
-(1)
-(2)
-(3) 
-(4)
-(5)
-(6) 
-(7)
-(8)
-(9) 
+(1)  
+(2)  
+(3)  
+(4)  
+(5)  
+(6)  
+(7)  
+(8)  
+(9)  
