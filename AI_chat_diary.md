@@ -33,7 +33,7 @@ claude - Opus 4.1
 (2) https://claude.ai/share/c3d1736e-d80a-43d1-bcca-0454fa8174dc  
 
 ## AI聊天記錄 - 第二次重構
-
+2025-10-10
 claude - Sonnet 4.5  
 (1) https://claude.ai/share/2c43ecfb-3539-449e-8710-f4c0043defe0  
 (gitignore)  
@@ -42,6 +42,16 @@ claude - Opus 4.1
 (1) https://claude.ai/share/5bc06b5c-6cec-4339-aff8-50549cc321a7  
 (format)  
 
+2025-10-12
+claude - Opus 4.1  
+(1) https://claude.ai/share/be0f897b-af6b-4b5d-beb5-193aadd10ead  
+(improve repo tree)
+(2)
+(core)
+
+GPT 5  - Thinking  
+(1) 
+(chore)
 ---------------------------------------
 
 ## AI聊天記錄 - 模板
