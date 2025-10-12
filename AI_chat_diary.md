@@ -46,11 +46,11 @@ claude - Opus 4.1
 claude - Opus 4.1  
 (1) https://claude.ai/share/be0f897b-af6b-4b5d-beb5-193aadd10ead  
 (improve repo tree)
-(2)
-(core)
+(2) https://claude.ai/share/f7156428-f3e1-4ab8-8350-1967b4d741b6
+(core/preprocess)
 
 GPT 5  - Thinking  
-(1) 
+(1) https://chatgpt.com/share/68eb921a-4da8-8002-99ea-331b59759455
 (chore)
 ---------------------------------------
 
