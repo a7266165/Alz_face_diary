@@ -58,6 +58,10 @@ claude - Opus 4.1
 (1) https://claude.ai/share/c7b01394-c972-4a30-995c-57a945b76ec1  
 (core/feature extract)
 
+claude - Sonnet 4.5  
+(1) https://claude.ai/share/2f91573e-e9aa-426a-9d40-fdc4b8cbabed  
+(2) https://claude.ai/share/99d7b812-b8d3-4d65-84f2-29cbf2d1ce0a
+
 ---------------------------------------
 
 ## AI聊天記錄 - 模板
