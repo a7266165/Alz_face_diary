@@ -52,6 +52,12 @@ claude - Opus 4.1
 GPT 5  - Thinking  
 (1) https://chatgpt.com/share/68eb921a-4da8-8002-99ea-331b59759455
 (chore)
+
+2025-10-13
+claude - Opus 4.1  
+(1) https://claude.ai/share/c7b01394-c972-4a30-995c-57a945b76ec1  
+(core/feature extract)
+
 ---------------------------------------
 
 ## AI聊天記錄 - 模板
