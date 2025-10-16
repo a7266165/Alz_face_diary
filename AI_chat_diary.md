@@ -49,6 +49,12 @@ claude - Sonnet 4.5
 (1) https://claude.ai/share/3a1446b7-1356-4a1a-9865-153dddf220e4
 (src/api/schemas & src/api/services & src/api/routers & src/api/middleware & app.py)
 
+2025-10-16  
+(1) https://claude.ai/share/d01e3f30-a906-498c-92f0-9ef65701f51b  
+(2) https://claude.ai/share/f937f63a-0dec-431a-9389-94e39aa40d75  
+(3) https://claude.ai/share/768d30b3-cdcf-4286-a00a-742f92849168
+(bug fix & docker)
+
 ## AI聊天記錄 - 第一次重構
 
 2025-09-25  
